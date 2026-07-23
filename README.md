@@ -5,7 +5,7 @@ A comprehensive, offline-first, and highly intuitive desktop management system d
 ## 📸 System Overview & Previews
 ### 1. Central Control Panel (Main Hub)
 A clean grid-based navigation system to access all clinic operations (Control Panel, Reservations, Patient Records, Digital Dental Chart, Invoices, and Inventory).
-![Central Control Panel](<Screenshot (126).png>)
+<img src="اسنان/Screenshot%20(126).png" alt="Central Control Panel">
 ### 2. Business Analytics Dashboard
 Real-time monitoring of monthly profits, active cases, and urgent alerts (e.g., debt accumulation warnings and interactive calendar filters).
 <img src="Screenshot(127).png" alt="Business Analytics Dashboard" width="100%" />
